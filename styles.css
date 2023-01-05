@@ -1,0 +1,41 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    place-content: center;
+    display: grid;
+    min-height: 100vh;
+    font-family: "Outfit";
+}
+.container-box{
+    height: 450px;
+    width: 290px;
+    background-color: white;
+    text-align: center;
+    border-radius: 2em;
+}
+
+img{
+    padding: 20px;
+    border-radius: 2em;
+}
+
+p,h1{
+    padding-left: 18px;
+    padding-right:18px;
+}
+
+p{
+    font-size: 15px;
+    font-weight: 400;
+    color: #a1a3ac;
+}
+
+h1{
+    color:hsl(0, 0%, 0%);
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+.attribution{
+    padding-top: 100px;
+}
